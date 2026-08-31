@@ -11,6 +11,7 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
 **• ⚙️ Base técnica: Python, C, JavaScript, TypeScript, React e desenvolvimento web**  
 **• 🔬 Foco: transformar aprendizado com IA em projetos práticos e bem documentados**  
 **• 🛡️ Segurança: foco em Blue Team e defesa de sistemas**
+**• 🌐 Idiomas: português nativo e inglês intermediário**
 
 ## Áreas de interesse
 
