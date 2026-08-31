@@ -1,10 +1,10 @@
 <div align="center">
 
-# Prazer, Kama! 👋
+# Eae, como vai? 👋
 
 </div>
 
-Sou estudante de **Ciência da Computação**, com foco principal em **Engenharia de IA**.
+Me chamo João Gabriel e sou estudante de **Ciência da Computação**, com foco principal em **Engenharia de IA**.
 Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplicações web, transformando aprendizado técnico em projetos práticos. Também exploro **cibersegurança** e **desenvolvimento full-stack**.
 
 **• 🧠 Desenvolvendo em IA: LLMs locais, RAG, embeddings e busca semântica**  
