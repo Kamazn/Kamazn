@@ -15,7 +15,8 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
 ## Áreas de interesse
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ENGENHARIA_DE_IA-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Engenharia de IA" />
+  <img src="https://img.shields.io/badge/ENGENHARIA_DE_IA-%237C3AED.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Engenharia de IA" />
+  <img src="https://img.shields.io/badge/RAG-%236D28D9.svg?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/CIBERSEGURAN%C3%87A_%7C_BLUE_TEAM-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Cibersegurança e Blue Team" />
   <img src="https://img.shields.io/badge/FULL--STACK-%230EA5E9.svg?style=for-the-badge&logo=stackshare&logoColor=white" alt="Full-stack" />
 </p>
@@ -31,26 +32,14 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="44" alt="C" /><br />
       <sub>C</sub>
+    </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" alt="HTML5" /><br />
-      <sub>HTML</sub>
+      <sub>HTML5</sub>
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" alt="CSS3" /><br />
-      <sub>CSS</sub>
-    </td>
-        </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" alt="JavaScript" /><br />
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="44" alt="TypeScript" /><br />
-      <sub>TypeScript</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" alt="React" /><br />
-      <sub>React</sub>
+      <sub>CSS3</sub>
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" alt="Git" /><br />
@@ -70,8 +59,8 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs_LOCAIS-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="LLMs locais com Ollama" />
   <img src="https://img.shields.io/badge/RAG-%236D28D9.svg?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI_AGENTS-%237C3AED.svg?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/ChromaDB-%23FFDE59.svg?style=for-the-badge&logo=stackshare&logoColor=black" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/AI_AGENTS-%238E75B2.svg?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents" />
+  <img src="./assets/chromadb-badge.svg" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
@@ -98,17 +87,23 @@ Sistema de recuperação de informações HTTPX dividido em dois módulos: **ind
 ## Aprendendo atualmente
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/CI%2FCD-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
 </p>
 
-Estou aprofundando conhecimentos em tecnologias que complementam meus projetos de **IA**, **desenvolvimento web** e **segurança**.
+Estou aprofundando conhecimentos em tecnologias que complementam meus projetos de **IA**, **desenvolvimento web**, **infraestrutura** e **segurança**.
 
-- **PostgreSQL:** estruturar e armazenar dados em aplicações.
-- **Node.js:** criar APIs e serviços de backend com JavaScript e TypeScript.
+- **JavaScript, TypeScript e React:** fortalecer o desenvolvimento web e criar interfaces componentizadas e bem estruturadas.
+- **PostgreSQL e Node.js:** armazenar dados e criar APIs e serviços de backend.
 - **LangChain:** organizar fluxos com LLMs, recuperação de contexto e aplicações RAG.
+- **Docker e CI/CD:** conteinerizar aplicações e automatizar testes, builds e processos de entrega.
 - **Burp Suite:** compreender vulnerabilidades e testar a segurança de aplicações web, complementando meu foco em Blue Team.
 
 <p align="center">
