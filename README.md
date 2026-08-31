@@ -17,10 +17,9 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
 <p align="center">
   <img src="https://img.shields.io/badge/ENGENHARIA_DE_IA-%237C3AED.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Engenharia de IA" />
   <img src="https://img.shields.io/badge/CIBERSEGURAN%C3%87A_%7C_BLUE_TEAM-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Cibersegurança e Blue Team" />
- <img src="https://img.shields.io/badge/FULL--STACK-%230EA5E9.svg?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Full-stack" />
-</p>
+  <img src="https://img.shields.io/badge/FULL--STACK-%230EA5E9.svg?style=for-the-badge&logo=stackshare&logoColor=white" alt="Full-stack" />
 
-## Tecnologias que utilizo
+## Tecnologias e ferramentas que utilizo
 
 <table align="center">
   <tr>
@@ -56,11 +55,11 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs_LOCAIS-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="LLMs locais com Ollama" />
+  <img src="https://img.shields.io/badge/LLMs_LOCAIS-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="LLMs locais" />
   <img src="https://img.shields.io/badge/RAG-%236D28D9.svg?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/AI_AGENTS-%238E75B2.svg?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/ChromaDB-%23111827.svg?style=for-the-badge&logo=stackshare&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/ChromaDB-%23111827.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
@@ -106,5 +105,5 @@ Estou aprofundando conhecimentos em tecnologias que complementam meus projetos d
 - **Burp Suite:** compreender vulnerabilidades e testar a segurança de aplicações web, complementando meu foco em Blue Team.
 
 <p align="center">
-  <img src="./assets/profile-animation.gif" alt="Pixel art de uma estação de trabalho com vários monitores" height="300"/>
+  <img src="./assets/profile-animation.gif" alt="Pixel art de uma estação de trabalho com vários monitores" height="250"/>
 </p>
