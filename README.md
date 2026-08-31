@@ -17,7 +17,7 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
 <p align="center">
   <img src="https://img.shields.io/badge/ENGENHARIA_DE_IA-%237C3AED.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Engenharia de IA" />
   <img src="https://img.shields.io/badge/CIBERSEGURAN%C3%87A_%7C_BLUE_TEAM-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Cibersegurança e Blue Team" />
-  <img src="https://img.shields.io/badge/FULL--STACK-%230EA5E9.svg?style=for-the-badge&logo=stackshare&logoColor=white" alt="Full-stack" />
+ <img src="https://img.shields.io/badge/FULL--STACK-%230EA5E9.svg?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Full-stack" />
 </p>
 
 ## Tecnologias que utilizo
@@ -59,8 +59,7 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
   <img src="https://img.shields.io/badge/LLMs_LOCAIS-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="LLMs locais com Ollama" />
   <img src="https://img.shields.io/badge/RAG-%236D28D9.svg?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/AI_AGENTS-%238E75B2.svg?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents" />
-  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/assets/chroma-wordmark-color.png#gh-light-mode-only" height="28" alt="ChromaDB" />
-  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/assets/chroma-wordmark-white.png#gh-dark-mode-only" height="28" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/ChromaDB-%23111827.svg?style=for-the-badge&logo=stackshare&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
@@ -87,9 +86,9 @@ Sistema de recuperação de informações HTTPX dividido em dois módulos: **ind
 ## Aprendendo atualmente
 
 <p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232A" alt="React" />
+  <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
