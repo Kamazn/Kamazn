@@ -14,7 +14,7 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
 
 ---
 
-## 🧠 Áreas de interesse
+## Áreas de interesse
 
 <p align="center">
   <img src="https://img.shields.io/badge/ENGENHARIA_DE_IA-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Engenharia de IA" />
@@ -23,17 +23,40 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
   <img src="https://img.shields.io/badge/FULL--STACK-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Full-stack" />
 </p>
 
-## 🛠️ Tecnologias que estou usando
+## Tecnologias que utilizo
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" alt="Python" /><br />
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="44" alt="C" /><br />
+      <sub>C</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" alt="JavaScript" /><br />
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="44" alt="TypeScript" /><br />
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" alt="React" /><br />
+      <sub>React</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" alt="HTML5" /><br />
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" alt="CSS3" /><br />
+      <sub>CSS3</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs_LOCAIS-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="LLMs locais com Ollama" />
@@ -43,21 +66,20 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
 ---
 
-## 🚀 Projeto em destaque
+## Projeto em destaque
 
 ### [RAG semântico para a documentação do HTTPX](https://github.com/Kamazn/Rag_Joao_Gabriel_Goncalves)
 
-Sistema de recuperação de informações dividido em dois módulos: **indexação** e **consulta**.
+Sistema de recuperação de informações HTTPX dividido em dois módulos: **indexação** e **consulta**.
 
 - Divide os documentos em chunks e gera embeddings para cada trecho.
 - Armazena os embeddings e seus respectivos contextos no ChromaDB.
-- Transforma a pergunta do usuário em embedding e busca os três trechos mais semelhantes.
+- Transforma a pergunta do usuário em embedding e busca os três trechos mais similares.
 - Envia o contexto recuperado para um LLM local, ajudando a gerar uma resposta mais precisa.
 
-**Tecnologias:** Python, ChromaDB, embeddings, RAG e LLMs locais com Ollama.
+**Tecnologias:** Python, LangChain, ChromaDB, embeddings, chunking, e LLMs locais.
 
 <p align="center">
   <a href="https://github.com/Kamazn/Rag_Joao_Gabriel_Goncalves">
@@ -67,12 +89,12 @@ Sistema de recuperação de informações dividido em dois módulos: **indexaç�
 
 ---
 
-## 📚 Aprendendo atualmente
+## Aprendendo atualmente
 
 <p align="center">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
 </p>
 
