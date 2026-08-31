@@ -12,15 +12,12 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
 **• 🔬 Foco: transformar aprendizado com IA em projetos práticos e bem documentados**  
 **• 🛡️ Segurança: foco em Blue Team e defesa de sistemas**
 
----
-
 ## Áreas de interesse
 
 <p align="center">
   <img src="https://img.shields.io/badge/ENGENHARIA_DE_IA-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Engenharia de IA" />
-  <img src="https://img.shields.io/badge/RAG-%236D28D9.svg?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/CIBERSEGURAN%C3%87A_%7C_BLUE_TEAM-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Cibersegurança e Blue Team" />
-  <img src="https://img.shields.io/badge/FULL--STACK-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Full-stack" />
+  <img src="https://img.shields.io/badge/FULL--STACK-%230EA5E9.svg?style=for-the-badge&logo=stackshare&logoColor=white" alt="Full-stack" />
 </p>
 
 ## Tecnologias que utilizo
@@ -34,7 +31,15 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="44" alt="C" /><br />
       <sub>C</sub>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" alt="HTML5" /><br />
+      <sub>HTML</sub>
     </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" alt="CSS3" /><br />
+      <sub>CSS</sub>
+    </td>
+        </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" alt="JavaScript" /><br />
       <sub>JavaScript</sub>
@@ -48,12 +53,16 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
       <sub>React</sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" alt="HTML5" /><br />
-      <sub>HTML5</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" alt="Git" /><br />
+      <sub>Git</sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" alt="CSS3" /><br />
-      <sub>CSS3</sub>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
+        <img src="https://cdn.simpleicons.org/github/181717" width="44" alt="GitHub" />
+      </picture><br />
+      <sub>GitHub</sub>
     </td>
   </tr>
 </table>
@@ -61,16 +70,15 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs_LOCAIS-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="LLMs locais com Ollama" />
   <img src="https://img.shields.io/badge/RAG-%236D28D9.svg?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_AGENTS-%237C3AED.svg?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents" />
   <img src="https://img.shields.io/badge/ChromaDB-%23FFDE59.svg?style=for-the-badge&logo=stackshare&logoColor=black" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
----
 
 ## Projeto em destaque
 
-### [RAG semântico para a documentação do HTTPX](https://github.com/Kamazn/Rag_Joao_Gabriel_Goncalves)
+### [RAG Semântico para a documentação HTTPX](https://github.com/Kamazn/Rag_Joao_Gabriel_Goncalves)
 
 Sistema de recuperação de informações HTTPX dividido em dois módulos: **indexação** e **consulta**.
 
@@ -87,8 +95,6 @@ Sistema de recuperação de informações HTTPX dividido em dois módulos: **ind
   </a>
 </p>
 
----
-
 ## Aprendendo atualmente
 
 <p align="center">
@@ -98,6 +104,13 @@ Sistema de recuperação de informações HTTPX dividido em dois módulos: **ind
   <img src="https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
 </p>
 
+Estou aprofundando conhecimentos em tecnologias que complementam meus projetos de **IA**, **desenvolvimento web** e **segurança**.
+
+- **PostgreSQL:** estruturar e armazenar dados em aplicações.
+- **Node.js:** criar APIs e serviços de backend com JavaScript e TypeScript.
+- **LangChain:** organizar fluxos com LLMs, recuperação de contexto e aplicações RAG.
+- **Burp Suite:** compreender vulnerabilidades e testar a segurança de aplicações web, complementando meu foco em Blue Team.
+
 <p align="center">
-  <img src="./assets/profile-animation.gif" width="700" alt="Pixel art de uma estação de trabalho com vários monitores" />
+  <img src="./assets/profile-animation.gif" width="700" alt="Pixel art de uma estação de trabalho com vários monitores" height="300"/>
 </p>
