@@ -7,10 +7,10 @@
 Me chamo João Gabriel e sou estudante de **Ciência da Computação**, com foco principal em **Engenharia de IA**.
 Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplicações web, transformando aprendizado técnico em projetos práticos. Também exploro **cibersegurança** e **desenvolvimento full-stack**.
 
-**• 🧠 Desenvolvendo em IA: LLMs locais, RAG, embeddings e LangChain**  
-**• ⚙️ Base técnica: Python, C, JavaScript, TypeScript, React e desenvolvimento web**  
-**• 🔬 Foco: transformar aprendizado com IA em projetos práticos e bem documentados**  
-**• 🛡️ Segurança: foco em Blue Team e defesa de sistemas**
+**• 🧠 Desenvolvendo em IA: LLMs locais, RAG, embeddings e bancos vetoriais**<br>
+**• ⚙️ Base técnica: Python, C, HTML, CSS, Git, GitHub e Supabase**<br>
+**• 🔬 Foco: transformar aprendizado com IA em projetos práticos e bem documentados**<br>
+**• 🛡️ Segurança: foco em Blue Team e defesa de sistemas**<br>
 **• 🌐 Idiomas: português nativo e inglês intermediário**
 
 ## Áreas de interesse
