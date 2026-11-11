@@ -98,12 +98,14 @@ Sistema de recuperação de informações HTTPX dividido em dois módulos: **ind
   <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 Estou aprofundando conhecimentos em tecnologias que complementam meus projetos de **IA**, **desenvolvimento web**, **infraestrutura** e **segurança**.
 
 - **JavaScript, TypeScript e React:** fortalecer o desenvolvimento web e criar interfaces componentizadas e bem estruturadas.
-- **PostgreSQL e Node.js:** armazenar dados e criar APIs e serviços de backend.
+- **PostgreSQL, Node.js e FastAPI:** armazenar dados e criar APIs e serviços de backend de alta performance.
 - **LangChain:** organizar fluxos com LLMs, recuperação de contexto e aplicações RAG.
 - **Docker e CI/CD:** conteinerizar aplicações e automatizar testes, builds e processos de entrega.
 
