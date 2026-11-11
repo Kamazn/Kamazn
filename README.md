@@ -10,7 +10,7 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
 **• 🧠 IA aplicada: LLMs locais, RAG, embeddings e bancos vetoriais**<br>
 **• ⚙️ Base técnica: Python, C, HTML, CSS, Git e GitHub**<br>
 **• 🔬 Foco: transformar aprendizado com IA em projetos práticos e bem documentados**<br>
-**• 🛡️ Segurança: foco em Blue Team e defesa de sistemas**<br>
+**• 🛡️ Segurança: foco em segurança ofensiva (Pentest) e identificação de vulnerabilidades**<br>
 **• 🌐 Idiomas: português nativo e inglês intermediário**
 
 ## Áreas de interesse
@@ -19,6 +19,7 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
   <img src="https://img.shields.io/badge/ENGENHARIA_DE_IA-%230EA5E9.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Engenharia de IA" />
   <img src="https://img.shields.io/badge/CIBERSEGURAN%C3%87A_%7C_RED_TEAM-%23D93737.svg?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Cibersegurança - Red Team" />
   <img src="https://img.shields.io/badge/FULL--STACK-%237C3AED.svg?style=for-the-badge&logo=stackshare&logoColor=white" alt="Full-stack" />
+</p>
 
 ## Tecnologias e ferramentas que utilizo
 
@@ -39,7 +40,6 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" alt="CSS3" /><br />
       <sub>CSS3</sub>
-    </td>    
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="44" alt="MySQL" /><br />
@@ -91,15 +91,13 @@ Sistema de recuperação de informações HTTPX dividido em dois módulos: **ind
 ## Aprendendo atualmente
 
 <p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/CI%2FCD-%232671E5.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE3LjY1IDYuMzVBNy45NSA3Ljk1IDAgMCAwIDEyIDRhOCA4IDAgMSAwIDcuNzMgMTBoLTIuMDhBNiA2IDAgMSAxIDEyIDZjMS42NiAwIDMuMTQuNjkgNC4yMiAxLjc4TDEzIDExaDdWNGwtMi4zNSAyLjM1eiIvPjwvc3ZnPg==" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
 </p>
 
 Estou aprofundando conhecimentos em tecnologias que complementam meus projetos de **IA**, **desenvolvimento web**, **infraestrutura** e **segurança**.
@@ -108,7 +106,6 @@ Estou aprofundando conhecimentos em tecnologias que complementam meus projetos d
 - **PostgreSQL e Node.js:** armazenar dados e criar APIs e serviços de backend.
 - **LangChain:** organizar fluxos com LLMs, recuperação de contexto e aplicações RAG.
 - **Docker e CI/CD:** conteinerizar aplicações e automatizar testes, builds e processos de entrega.
-- **Burp Suite:** compreender vulnerabilidades e testar a segurança de aplicações web, complementando meu foco em Blue Team.
 
 <p align="center">
   <img src="./assets/profile-animation.gif" alt="Pixel art de uma estação de trabalho com vários monitores" height="250"/>
