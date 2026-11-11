@@ -1,19 +1,19 @@
 <div align="center">
 
-# Eae, como vai? 👋
+# Hey, what's up? 👋
 
 </div>
 
-Me chamo João Gabriel e sou estudante de **Ciência da Computação**, com foco principal em **Engenharia de IA**.
-Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplicações web, transformando aprendizado técnico em projetos práticos. Também exploro **cibersegurança** e **desenvolvimento full-stack**.
+My name is João Gabriel, and I am a **Computer Science** student focused primarily on **AI Engineering**.
+I am passionate about building solutions with **RAG**, **local LLMs**, and web applications, turning technical learning into practical projects. I also explore **cybersecurity** and **full-stack development**.
 
-**• 🧠 IA aplicada: LLMs locais, RAG, embeddings e bancos vetoriais**<br>
-**• ⚙️ Base técnica: Python, C, HTML, CSS, Git e GitHub**<br>
-**• 🔬 Foco: transformar aprendizado com IA em projetos práticos e bem documentados**<br>
-**• 🛡️ Segurança: foco em segurança ofensiva (Pentest) e identificação de vulnerabilidades**<br>
-**• 🌐 Idiomas: português nativo e inglês intermediário**
+**• 🧠 Applied AI: Local LLMs, RAG, embeddings, and vector databases**<br>
+**• ⚙️ Core Technical Stack: Python, C, HTML, CSS, MySQL Git, and GitHub**<br>
+**• 🔬 Focus: Turning AI learning into practical, well-documented projects**<br>
+**• 🛡️ Cybersecurity: Focused on offensive security (Pentesting) and vulnerability research**<br>
+**• 🌐 Languages: Native Portuguese and Intermediate English**
 
-## Áreas de interesse
+## Areas of Interest
 
 <p align="center">
   <img src="https://img.shields.io/badge/ENGENHARIA_DE_IA-%230EA5E9.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Engenharia de IA" />
@@ -21,7 +21,7 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
   <img src="https://img.shields.io/badge/FULL--STACK-%237C3AED.svg?style=for-the-badge&logo=stackshare&logoColor=white" alt="Full-stack" />
 </p>
 
-## Tecnologias e ferramentas que utilizo
+## Technologies & Tools
 
 <table align="center">
   <tr>
@@ -69,18 +69,18 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## Projeto em destaque
+## Featured Project
 
-### [RAG Semântico para a documentação HTTPX](https://github.com/Kamazn/Rag_Joao_Gabriel_Goncalves)
+### [Semantic RAG for HTTPX Documentation](https://github.com/Kamazn/Rag_Joao_Gabriel_Goncalves)
 
-Sistema de recuperação de informações HTTPX dividido em dois módulos: **indexação** e **consulta**.
+An HTTPX information retrieval system split into two core modules: **indexing** and **querying**.
 
-- Divide os documentos em chunks e gera embeddings para cada trecho.
-- Armazena os embeddings e seus respectivos contextos no ChromaDB.
-- Transforma a pergunta do usuário em embedding e busca os três trechos mais similares.
-- Envia o contexto recuperado para um LLM local, ajudando a gerar uma resposta mais precisa.
+- Chunking long documents and generating embeddings for each segment.
+- Storing embeddings and their respective contexts in ChromaDB.
+- Converting user queries into embeddings to retrieve the top 3 most similar document chunks.
+- Feeding the retrieved context into a local LLM to generate precise and grounded answers.
 
-**Tecnologias:** Python, LangChain, ChromaDB, embeddings, chunking, e LLMs locais.
+**Tech Stack:** `Python` • `LangChain` • `ChromaDB` • `Vector Embeddings` • `Text Chunking` • `Local LLMs`
 
 <p align="center">
   <a href="https://github.com/Kamazn/Rag_Joao_Gabriel_Goncalves">
@@ -88,7 +88,7 @@ Sistema de recuperação de informações HTTPX dividido em dois módulos: **ind
   </a>
 </p>
 
-## Aprendendo atualmente
+## Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -102,12 +102,12 @@ Sistema de recuperação de informações HTTPX dividido em dois módulos: **ind
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-Estou aprofundando conhecimentos em tecnologias que complementam meus projetos de **IA**, **desenvolvimento web**, **infraestrutura** e **segurança**.
+I am expanding my knowledge in technologies that complement my projects in **AI**, **web development**, **infrastructure**, and **cybersecurity**.
 
-- **JavaScript, TypeScript e React:** fortalecer o desenvolvimento web e criar interfaces componentizadas e bem estruturadas.
-- **PostgreSQL, Node.js e FastAPI:** armazenar dados e criar APIs e serviços de backend de alta performance.
-- **LangChain:** organizar fluxos com LLMs, recuperação de contexto e aplicações RAG.
-- **Docker e CI/CD:** conteinerizar aplicações e automatizar testes, builds e processos de entrega.
+- **JavaScript, TypeScript, and React:** Enhancing web development and building component-driven, well-structured interfaces.
+- **PostgreSQL, Node.js, and FastAPI:** Managing data storage and building high-performance backend APIs and services.
+- **LangChain:** Orchestrating workflows with LLMs, context retrieval, and RAG architectures.
+- **Docker and CI/CD:** Containerizing applications and automating tests, builds, and deployment pipelines.
 
 <p align="center">
   <img src="./assets/profile-animation.gif" alt="Pixel art de uma estação de trabalho com vários monitores" height="250"/>
