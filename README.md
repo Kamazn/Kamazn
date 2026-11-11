@@ -39,6 +39,11 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" alt="CSS3" /><br />
       <sub>CSS3</sub>
+    </td>    
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="44" alt="MySQL" /><br />
+      <sub>MySQL</sub>
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" alt="Git" /><br />
