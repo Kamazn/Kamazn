@@ -16,9 +16,9 @@ Tenho interesse em desenvolver soluções com **RAG**, **LLMs locais** e aplica�
 ## Áreas de interesse
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ENGENHARIA_DE_IA-%237C3AED.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Engenharia de IA" />
+  <img src="https://img.shields.io/badge/ENGENHARIA_DE_IA-%230EA5E9.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Engenharia de IA" />
   <img src="https://img.shields.io/badge/CIBERSEGURAN%C3%87A_%7C_RED_TEAM-%23D93737.svg?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Cibersegurança - Red Team" />
-  <img src="https://img.shields.io/badge/FULL--STACK-%230EA5E9.svg?style=for-the-badge&logo=stackshare&logoColor=white" alt="Full-stack" />
+  <img src="https://img.shields.io/badge/FULL--STACK-%237C3AED.svg?style=for-the-badge&logo=stackshare&logoColor=white" alt="Full-stack" />
 
 ## Tecnologias e ferramentas que utilizo
 
